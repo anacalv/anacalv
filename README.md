@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! 👋
 
-<!--
-**anacalv/anacalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Carolina.
+Sou estudante de engenharia da computação na Universidade Metodista em São Paulo e estagiária na IBM Brasil.
+Trabalho com Javascript, HTML, CSS e atuo diretamente no desenvolvimento de assets ligados à IBM Cloud.
+Possuo algumas pequenas experiências com wordpress, node-red e python.
 
-Here are some ideas to get you started:
+❤️ UX enthusiast 
+💙 student of soft skills, web development and UX Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anacalvess/)
+
+
